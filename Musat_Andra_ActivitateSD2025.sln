@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Musat_Andra_ActivitateSD2025", "Musat_Andra_ActivitateSD2025.vcxproj", "{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Debug|x64.ActiveCfg = Debug|x64
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Debug|x64.Build.0 = Debug|x64
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Debug|x86.ActiveCfg = Debug|Win32
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Debug|x86.Build.0 = Debug|Win32
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Release|x64.ActiveCfg = Release|x64
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Release|x64.Build.0 = Release|x64
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Release|x86.ActiveCfg = Release|Win32
+		{358A8CE9-08CA-40F3-8C8D-79D2E8846F63}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51C741EE-C34B-463F-9071-20C3F23EA58F}
+	EndGlobalSection
+EndGlobal
